@@ -7,6 +7,9 @@ Scam Message Investigator is an AI-powered application that analyzes suspicious 
 
 The application identifies possible scam indicators, assesses the concern level, explains warning signs, and provides recommended safety actions.
 
+## Live Demo
+https://scam-message-investigator-nbwxcawdlicyhiefk9mqkm.streamlit.app/
+
 ## Features
 
 - Analyzes suspicious SMS messages and emails
